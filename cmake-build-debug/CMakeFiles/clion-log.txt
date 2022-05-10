@@ -1,0 +1,8 @@
+D:\Tools\Qt6.2\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\30205\Desktop\Clion\algorithm -B C:\Users\30205\Desktop\Clion\algorithm\cmake-build-debug
+CMake Error at CMakeLists.txt:8 (add_subdirectory):
+  add_subdirectory given source "particle_swarm_optimization" which is not an
+  existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/CMakeFiles/CMakeOutput.log".

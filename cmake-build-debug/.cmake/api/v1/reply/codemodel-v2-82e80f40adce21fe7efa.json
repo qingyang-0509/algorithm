@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "sorting",
+					"jsonFile" : "directory-sorting-Debug-8ca76b16d5e1f8624e36.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "sorting",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "search",
+					"jsonFile" : "directory-search-Debug-89105324b39aa02ee036.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "search",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "particle_swarm_optimization",
+					"jsonFile" : "directory-particle_swarm_optimization-Debug-e2f57ccbe0ed33e4cf3f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "particle_swarm_optimization",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "genetic_algorithm",
+					"jsonFile" : "directory-genetic_algorithm-Debug-2ebaced23c1599defa55.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "genetic_algorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algorithm"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "sorting",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "search",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "particle_swarm_optimization",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "genetic_algorithm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "genetic_algorithm::@e57b5ae17e47a6f7b677",
+					"jsonFile" : "target-genetic_algorithm-Debug-acb6ecbdc57cd7197e75.json",
+					"name" : "genetic_algorithm",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "particle_swarm_optimization::@fdb1235cf3512af1cc37",
+					"jsonFile" : "target-particle_swarm_optimization-Debug-693e70cd3d00579b088c.json",
+					"name" : "particle_swarm_optimization",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "search::@b3e4e3481926c17d0075",
+					"jsonFile" : "target-search-Debug-b1c94f0636dd05e76333.json",
+					"name" : "search",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sorting::@731c94c3589c2bb2a028",
+					"jsonFile" : "target-sorting-Debug-d64f20f09fdc0e13f2f3.json",
+					"name" : "sorting",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug",
+		"source" : "C:/Users/30205/Desktop/Clion/algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

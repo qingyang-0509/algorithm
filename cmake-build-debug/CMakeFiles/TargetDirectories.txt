@@ -1,0 +1,14 @@
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/sorting/CMakeFiles/sorting.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/sorting/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/sorting/CMakeFiles/rebuild_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/search/CMakeFiles/search.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/search/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/search/CMakeFiles/rebuild_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/particle_swarm_optimization/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/particle_swarm_optimization/CMakeFiles/particle_swarm_optimization.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/particle_swarm_optimization/CMakeFiles/rebuild_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/genetic_algorithm/CMakeFiles/genetic_algorithm.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/genetic_algorithm/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/cmake-build-debug/genetic_algorithm/CMakeFiles/rebuild_cache.dir

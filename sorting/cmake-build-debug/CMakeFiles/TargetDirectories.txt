@@ -1,0 +1,3 @@
+C:/Users/30205/Desktop/Clion/algorithm/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+C:/Users/30205/Desktop/Clion/algorithm/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/algorithm/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

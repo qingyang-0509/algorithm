@@ -1,0 +1,12 @@
+# ninja log v5
+0	187	6738859001453142	sorting/CMakeFiles/sorting.dir/sorting.cpp.obj	a16157f3d37f4aa1
+205	282	6738811513505149	particle_swarm_optimization/particle_swarm_optimization.exe	108f86c7a3c07002
+190	272	6738859002249401	sorting/sorting.exe	b00afbe75adefcce
+1	204	6738811512738419	particle_swarm_optimization/CMakeFiles/particle_swarm_optimization.dir/particle_swarm_optimization.cpp.obj	5c0759ab59fd458d
+1	554	6738725093835891	particle_swarm_optimization/CMakeFiles/particle_swarm_optimization.dir/__/search/search.cpp.obj	36beb3c2ff5c3afb
+0	147	6738866148727601	build.ninja	2bbea15ba5160d1a
+0	167	6738867090941871	genetic_algorithm/CMakeFiles/genetic_algorithm.dir/genetic_algorithm.cpp.obj	e2899e39db90eac8
+168	246	6738867091728175	genetic_algorithm/genetic_algorithm.exe	f55748c48f9e7f8b
+0	51	6738867455257452	search/CMakeFiles/search.dir/search.cpp.obj	3c543b3488e994d7
+1	211	6738867646265401	particle_swarm_optimization/CMakeFiles/particle_swarm_optimization.dir/particle_swarm_optimization.cpp.obj	5c0759ab59fd458d
+211	296	6738867647105377	particle_swarm_optimization/particle_swarm_optimization.exe	26ede95141a4c32e
