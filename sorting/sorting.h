@@ -55,7 +55,7 @@ void sorting::print()
 }
 void sorting::swap(int& t_1, int& t_2)
 {
-	int temp = 0;
+	int temp;
 	temp = t_1;
 	t_1 = t_2;
 	t_2 = temp;

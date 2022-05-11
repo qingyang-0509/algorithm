@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD 11)
 add_subdirectory(sorting)
 add_subdirectory(search)
 add_subdirectory(particle_swarm_optimization)
-#[[add_subdirectory(genetic_algorithm)]]
+add_subdirectory(genetic_algorithm)
 
